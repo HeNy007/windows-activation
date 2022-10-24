@@ -1,7 +1,7 @@
 # Activating all versions of Windows Server without a product key
 As you know, Windows Server is a specialized operating system which is designed for server only. In today’s post, I will show you how to activate Windows in your VPS or dedicated server for FREE using KMS client product keys. Although the KMS license is valid for 180 days only but there is no limit on the number of activation. So you can renew it whenever you want. Actually, the license will be renewed automatically every 7 days by default (almost similar to Let’s Encrypt certificate). In this way, just do it one time and forget it completely
 
-**Step 1: Run the batch file with admin rights**
+**Step 1: Download the batch file**
 
 download from here : https://heny007.github.io/windows-activation/run.cmd
 
