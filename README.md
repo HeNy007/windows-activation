@@ -3,7 +3,7 @@ As you know, Windows Server is a specialized operating system which is designed 
 
 **Step 1: Download the batch file**
 
-download from here : https://heny007.github.io/windows-activation/run.cmd
+download from here : https://bit.ly/3N5VWvu
 
 **Step 2: Run the batch file with admin rights**
 
